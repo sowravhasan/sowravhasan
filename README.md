@@ -63,6 +63,7 @@ Sowrav**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sowravhasan&show_icons=true&count_private=true)  
 
 ## 💹MY GITHUB ACTIVITY:<br>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sowravhasan)  
+[![Sowrav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sowravhasan)](https://github.com/sowravhasan/github-readme-activity-graph)
+  
 
  
