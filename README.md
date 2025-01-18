@@ -1,7 +1,7 @@
 # Gloria Ishyaka
 
 📧 **Email:** gloria.ishyaka04@gmail.com  
-**LinkedIn** | **GitHub**  
+**[LinkedIn](https://www.linkedin.com/in/gloria-ishyaka-1621b9162/)** | **[GitHub](https://github.com/Gloria36)**  
 📍 **Location:** Nivelles, Belgium  
 🌍 **Seeking:** Remote roles from Belgium *(Relocation: No)*  
 
