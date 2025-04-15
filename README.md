@@ -1,58 +1,65 @@
-<h1 align="center">👋 Hello, I'm Sowrav Hasan</h1>
-<h3 align="center">💻 WordPress Developer | Frontend Designer | Freelancer | Problem Solver</h3>
+<h1 align="center">Hey there, I'm Sowrav Hasan 👋</h1>
+<h3 align="center">✨ WordPress Wizard | Frontend Designer | Full-Stack Explorer | Freelancer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sowrav-hasan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/sowrav_hasan0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/sowrav_hasan0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:sowravhasan101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sowrav-hasan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/sowrav_hasan0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/sowrav_hasan0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:sowravhasan101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🔥 About Me
+## 🚀 About Me
 
-🔧 A passionate Web Developer focused on building clean, user-friendly, and responsive websites with WordPress and custom code.  
-🎯 I specialize in creating modern UI/UX, lightning-fast websites, and SEO-friendly designs.  
-💼 Freelancer with 5+ years of experience working with global clients from USA, UK, UAE & Bangladesh.
+🔹 Web Developer & WordPress Expert with 3+ years of experience  
+🔹 100+ global projects delivered in 30+ countries  
+🔹 Creative thinker, clean coder, client-focused problem solver  
+🔹 Educated by CodemanBD, Programming Hero, Udemy & more  
+🔹 Passionate about user experience, performance, and results  
+
+🔗 Personal Portfolio: [sowravhasan.com](https://sowravhasan.com)  
+📄 [Download My CV](https://drive.google.com/file/d/1MgWAWUeqsweid78arvUj9ABiS8tiEFW7/view)
+
+---
+
+## 💼 What I Do
+
+- 💡 Full Website Development (WordPress, Laravel, PHP)
+- 🛍️ WooCommerce & eCommerce Platforms
+- 🚀 SEO & Performance Optimization
+- 🖼️ Figma/XD/PHP to HTML Conversion
+- 🛠️ Website Maintenance & Bug Fixes
+- 📱 Responsive UI/UX for all devices
+- ⚙️ Custom Code & Advanced WordPress Customization
 
 ---
 
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,bootstrap,wordpress,php,mysql,sass,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,jquery,php,wordpress,laravel,react,mysql,git,github,figma,vscode" />
 </p>
 
 ---
 
-## 🚀 Services I Offer
+## 🌟 Highlighted Projects
 
-- ✅ WordPress Customization & Speed Optimization  
-- ✅ Landing Pages that Convert  
-- ✅ eCommerce Solutions (WooCommerce)  
-- ✅ Responsive Web Design (Mobile-First)  
-- ✅ Bug Fixes, Maintenance & Redesign  
-- ✅ SEO Optimization & Page Speed Boosting
+🔹 **Organic Harvest** – Modern Fresh Product Store  
+🔹 **Product Review eCommerce** – WooCommerce w/ Elementor  
+🔹 **AI Web Layout Design** – Built with React & Material UI  
+🔹 **Non-Profit Website** – HTML/CSS/JS Clean Code  
+🔹 **Business Landing Pages** – Conversion-Focused Design  
 
----
-
-## 💼 Highlighted Projects
-
-| Project Name               | Type                 | Tech Stack                            | Live Preview                        |
-|---------------------------|----------------------|----------------------------------------|-------------------------------------|
-| Modern Portfolio Website  | Personal Brand       | HTML, CSS, JS                          | [🔗 View](https://github.com/sowravhasan/portfolio-site) |
-| Online Restaurant Site    | Restaurant Web App   | WordPress, Elementor, WooCommerce     | [🔗 View](https://github.com/sowravhasan/restaurant-project) |
-| Custom eCommerce Store    | Product Website      | WooCommerce, PHP, Tailwind CSS        | [🔗 View](https://github.com/sowravhasan/ecommerce) |
-| Agency Landing Page       | Marketing Website    | TailwindCSS, JavaScript               | [🔗 View](https://github.com/sowravhasan/agency-site) |
+Explore more ➜ [Portfolio](https://sowravhasan.com/#projects)
 
 ---
 
-## 📈 GitHub Insights
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sowravhasan&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowravhasan&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sowravhasan&show_icons=true&theme=react&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowravhasan&layout=compact&theme=react&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -61,13 +68,13 @@
 
 ---
 
-## 📬 Contact Me
+## 📬 Let's Connect
 
 - 📧 Email: [sowravhasan101@gmail.com](mailto:sowravhasan101@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sowrav-hasan](https://www.linkedin.com/in/sowrav-hasan)  
 - 💬 Telegram: [@sowravhasan](https://t.me/sowravhasan)  
-- 📸 Instagram: [@sowrav_hasan0](https://www.instagram.com/sowrav_hasan0)  
-- 📘 Facebook: [@sowravhasan0](https://www.facebook.com/sowravhasan0)
+- 🌐 Website: [sowravhasan.com](https://sowravhasan.com)  
+- 📘 Facebook: [facebook.com/sowravhasan0](https://facebook.com/sowravhasan0)  
+- 📸 Instagram: [@sowrav_hasan0](https://instagram.com/sowrav_hasan0)
 
 ---
 
