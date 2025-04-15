@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Sowrav Hasan 👋</h1>
-<h3 align="center">✨ WordPress Wizard | Frontend Designer | Full-Stack Explorer | Freelancer</h3>
+<h3 align="center">Web Developer | CMS Expert | Freelancer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sowrav-hasan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
